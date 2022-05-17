@@ -1,0 +1,17 @@
+h1{
+    color:rgb(113, 14, 138)
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    color: dimgray;
+    padding: 50px;
+    border: 25px cornflowerblue;
+}
+spanId{
+    font-size: 18px;
+    margin: 50px;
+}
